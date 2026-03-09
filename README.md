@@ -38,6 +38,10 @@ solana-agent config set grokApiKey gsk_...
 # 2. Create a wallet
 solana-agent wallet create alice
 
+
+https://github.com/user-attachments/assets/6748148d-ed2e-4d0f-a0c4-6ca01b956285
+
+
 # 3. Fund with devnet SOL
 solana-agent wallet fund alice
 
